@@ -8,16 +8,17 @@ I’m a passionate Computer Science Engineering student focused on building prac
 
 ---
 
+<a href="https://github.com/KiranJITdesign">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
+</a>
+
 ## 🚀 About Me
 
 * 🎓 Pursuing **Computer Science Engineering**
 * 🏫 **Jyothy Institute of Technology**
 * 💻 Interested in **Full-Stack Development & Software Engineering**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌐 Building modern **Web Applications**
-* 🧩 Interested in solving real-world problems through technology
-* 📚 Continuously learning and improving my development skills
-* 🚀 Open to collaboration, internships, and interesting software projects
+
 
 ---
 
