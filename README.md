@@ -78,13 +78,7 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
