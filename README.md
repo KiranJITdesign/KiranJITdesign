@@ -1,4 +1,7 @@
-# 👋 Hi, I'm S Kiran
+
+<a href="https://github.com/KiranJITdesign">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
+</a>
 
 ### 💻 Computer Science Engineering Student | Full-Stack Developer | AI & Technology Enthusiast
 
@@ -8,9 +11,6 @@ I’m a passionate Computer Science Engineering student focused on building prac
 
 ---
 
-<a href="https://github.com/KiranJITdesign">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=KiranJITdesign&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -45,6 +45,12 @@ I’m a passionate Computer Science Engineering student focused on building prac
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+
+# social media 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-kiran)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/kiranklick)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/soudrikiran)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soudrikiran@gmail.com)
 ## 🚀 Featured Projects
 
 ### 🌐 Full-Stack Web Applications
