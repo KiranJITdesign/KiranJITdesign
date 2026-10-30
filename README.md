@@ -108,7 +108,7 @@ Developing software projects as part of my Computer Science Engineering journey 
 * 💼 Internship Opportunities
 * 🧠 Hackathons & Technical Events
 
----
+
 
 ## 📫 Connect With Me
 
