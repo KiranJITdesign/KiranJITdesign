@@ -131,8 +131,38 @@ Developing software projects as part of my Computer Science Engineering journey 
 ---
 
 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranJITdesign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranJITdesign&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KiranJITdesign&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranJITdesign&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranJITdesign&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
