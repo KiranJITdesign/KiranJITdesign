@@ -146,13 +146,15 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 ---
 
+
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranJITdesign&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiranJITdesign&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
