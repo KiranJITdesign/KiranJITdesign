@@ -134,15 +134,7 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=KiranJITdesign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranJITdesign&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
 
 ---
 
@@ -158,13 +150,35 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranJITdesign&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranJITdesign&show_icons=true&theme=tokyonight" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranJITdesign&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
 ---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=KiranJITdesign&theme=tokyonight" width="60%" />
+  
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranJITdesign&theme=tokyo-night" width="100%" />
+  
+</div>
+
+
 
