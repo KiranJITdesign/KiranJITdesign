@@ -21,6 +21,16 @@ I’m a passionate Computer Science Engineering student focused on building prac
 * 💻 Interested in **Full-Stack Development & Software Engineering**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 
+<div align="center">
+
+## 🐟 My GitHub Koi
+
+<img src="koi/koi.gif" width="256" alt="My GitHub Koi">
+
+</div>
+
+---
+
 
 # 💻 Tech Stack:
 
