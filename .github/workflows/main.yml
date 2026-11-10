@@ -38,6 +38,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PYTHONPATH: .github/workflows/github-profile-koi
         run: |
+          mkdir -p koi
           python -m koigen \
             --login "${{ github.repository_owner }}" \
             --body white \
