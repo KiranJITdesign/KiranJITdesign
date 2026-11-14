@@ -14,6 +14,11 @@
 🎓 **Computer Science Engineering Student at Jyothy Institute of Technology**
 
 I’m a passionate Computer Science Engineering student focused on building practical software, modern web applications, and intelligent solutions. I enjoy turning ideas into functional products while continuously learning new technologies.
+</div>
+<!-- ==================== RANDOM DEV QUOTE (new, additive, open-source) ==================== -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</div>
 
 ---
 
