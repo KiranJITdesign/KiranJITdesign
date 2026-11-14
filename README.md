@@ -1,10 +1,6 @@
-<a href="https://github.com/KiranJITdesign">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
-</a>
-
 
 <!-- ==================== ANIMATED WAVE HEADER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39D353,100:0D1117&height=180&section=header&text=Hey,%20I'm%20Kiran%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20·%20Builder%20·%20Explorer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39D353,100:0D1117&height=180&section=header&text=Hey,%20I'm%20SKiran%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20·%20Builder%20·%20Explorer&descAlignY=58&descSize=18" />
 <a href="https://github.com/KiranJITdesign">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
 </a>
