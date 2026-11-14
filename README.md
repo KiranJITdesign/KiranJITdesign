@@ -32,14 +32,11 @@ I’m a passionate Computer Science Engineering student focused on building prac
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:39D353&height=3" />
 <div align="center">
 
-### 🟢 Live Contribution Snake
+
+### 🟢 Contribution Heatmap
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranJITdesign/KiranJITdesign/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranJITdesign/KiranJITdesign/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/KiranJITdesign/KiranJITdesign/output/github-contribution-grid-snake.svg">
-</picture>
-<sub>🐍 A snake that eats its way through my contribution graph — auto-refreshes daily via GitHub Actions (setup note at the bottom)</sub>
+<img src="https://ghchart.rshah.org/39D353/KiranJITdesign" alt="Kiran's GitHub contribution heatmap" width="100%" />
+<sub>🔥 Live, auto-updating view of my commit activity — no setup required</sub>
  
 </div>
 ---
