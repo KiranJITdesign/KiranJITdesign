@@ -33,13 +33,6 @@ I’m a passionate Computer Science Engineering student focused on building prac
 <div align="center">
 
 
-### 🟢 Contribution Heatmap
- 
-<img src="https://ghchart.rshah.org/39D353/KiranJITdesign" alt="Kiran's GitHub contribution heatmap" width="100%" />
-<sub>🔥 Live, auto-updating view of my commit activity — no setup required</sub>
- 
-</div>
----
 
 ## 🐟 My GitHub Koi
 
@@ -177,6 +170,15 @@ Developing software projects as part of my Computer Science Engineering journey 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiranJITdesign&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
+### 🟢 Contribution Heatmap
+ 
+<img src="https://ghchart.rshah.org/39D353/KiranJITdesign" alt="Kiran's GitHub contribution heatmap" width="100%" />
+<sub>🔥 Live, auto-updating view of my commit activity — no setup required</sub>
+ 
+</div>
+---
 
 
 ---
