@@ -5,8 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
 </a>
 
+
+
 </div>
-### 💻 Computer Science Engineering Student | Full-Stack Developer | AI & Technology Enthusiast
+
+ 💻 Computer Science Engineering Student | Full-Stack Developer | AI & Technology Enthusiast
 
 🎓 **Computer Science Engineering Student at Jyothy Institute of Technology**
 
