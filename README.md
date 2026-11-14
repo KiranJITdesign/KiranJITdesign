@@ -26,6 +26,11 @@ I’m a passionate Computer Science Engineering student focused on building prac
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 
 <div align="center">
+  
+</div>
+<!-- ==================== ANIMATED DIVIDER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:39D353&height=3" />
+<div align="center">
 
 ## 🐟 My GitHub Koi
 
