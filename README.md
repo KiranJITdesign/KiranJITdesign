@@ -19,8 +19,7 @@ kiran@github:~$ ./run.sh --mode=explore --stack=full
 [OK] Loading curiosity...
 [OK] Compiling projects...
 [DONE] Ready to build 🚀
-```
- 
+
 </div>
 ### 💻 Computer Science Engineering Student | Full-Stack Developer | AI & Technology Enthusiast
 
