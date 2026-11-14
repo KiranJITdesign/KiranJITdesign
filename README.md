@@ -15,6 +15,9 @@ I’m a passionate Computer Science Engineering student focused on building prac
 
 <img src="https://komarev.com/ghpvc/?username=KiranJITdesign&style=flat&color=39d353&label=profile+views" alt="profile views">
 
+<!-- ==================== ANIMATED DIVIDER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0D1117&height=3" />
+
 ## 🚀 About Me
 
 * 🎓 Pursuing **Computer Science Engineering**
