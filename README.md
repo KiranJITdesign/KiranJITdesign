@@ -94,7 +94,8 @@ Exploring practical applications of AI, automation, and intelligent systems to s
 Developing software projects as part of my Computer Science Engineering journey at **Jyothy Institute of Technology**.
 
 ---
-
+<!-- ==================== ANIMATED DIVIDER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0D1117&height=3" />
 ## 🎯 Current Focus
 
 ```text
@@ -165,6 +166,8 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 
 ---
+<!-- ==================== ANIMATED DIVIDER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0D1117&height=3" />
 
 
 ## 🔥 GitHub Streak
@@ -177,4 +180,5 @@ Developing software projects as part of my Computer Science Engineering journey 
 
 
 ---
-
+<!-- ==================== ANIMATED WAVE FOOTER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39D353,100:0D1117&height=120&section=footer" />
