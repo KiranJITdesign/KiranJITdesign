@@ -5,6 +5,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=S+Kiran;Computer+Science+Engineer;Web+Developer;Python+Developer;AI+%26+Machine+Learning;Build+%7C+Learn+%7C+Deploy" alt="typing banner">
 </a>
 
+
+<!-- ==================== FAKE TERMINAL (new, additive, open-source) ==================== -->
+<div align="center">
+```bash
+kiran@github:~$ whoami
+S Kiran — CSE student, builder, lifelong learner
+ 
+kiran@github:~$ cat current_mission.txt
+Turning ideas into shipped, working software.
+ 
+kiran@github:~$ ./run.sh --mode=explore --stack=full
+[OK] Loading curiosity...
+[OK] Compiling projects...
+[DONE] Ready to build 🚀
+```
+ 
+</div>
 ### 💻 Computer Science Engineering Student | Full-Stack Developer | AI & Technology Enthusiast
 
 🎓 **Computer Science Engineering Student at Jyothy Institute of Technology**
