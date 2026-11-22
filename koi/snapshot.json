@@ -1,37 +1,9 @@
 {
   "login": "KiranJITdesign",
   "id": 189947861,
-  "observed_on": "2026-11-21",
-  "total_contributions": 243,
+  "observed_on": "2026-11-22",
+  "total_contributions": 248,
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 2
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0
@@ -1486,6 +1458,10 @@
     },
     {
       "date": "2026-11-21",
+      "count": 5
+    },
+    {
+      "date": "2026-11-22",
       "count": 0
     }
   ],
@@ -1503,7 +1479,7 @@
     {
       "name": "Python",
       "color": "#3572A5",
-      "count": 24
+      "count": 28
     },
     {
       "name": "HTML",
@@ -1522,7 +1498,7 @@
     }
   ],
   "streak": {
-    "longest": 23,
+    "longest": 24,
     "current": 0
   },
   "busy_week": true,
